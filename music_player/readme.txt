@@ -4,7 +4,7 @@ This script is converted from a fivem resource called esx_hifi
 This is a script in which you can play youtube music in-game.
 
 
-Play 	      : *TriggerEvent('play_music', link)*
+Play 	        : TriggerEvent('play_music', link)
 Stop          : TriggerEvent('stop_music')
 Set volume    : TriggerEvent('setVolume', volume)
 
