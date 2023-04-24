@@ -1,5 +1,6 @@
 # Music-Player
 *This script is converted from a fivem resource called esx_hifi*
+
 *This is a script in which you can play youtube music in-game.*
 
 
@@ -10,7 +11,7 @@
 > `Set volume`   :  `TriggerEvent('setVolume', volume)`
 
 
-###Some songs wont be working in this player
+**Some songs wont be working in this player**
 
 
 ## Citizeniv script
