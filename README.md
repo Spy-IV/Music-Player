@@ -4,7 +4,7 @@
 *This is a script in which you can play youtube music in-game.*
 
 
-> Play`	         : `TriggerEvent('play_music', musicid)`
+> Play	         : `TriggerEvent('play_music', musicid)`
 > 
 musicid = https://youtu.be/`dQw4w9WgXcQ`
 >
