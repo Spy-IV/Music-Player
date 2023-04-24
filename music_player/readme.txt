@@ -9,3 +9,4 @@ Stop          : TriggerEvent('stop_music')
 Set volume    : TriggerEvent('setVolume', volume)
 
 Some songs wont be working in this player
+## Citizeniv script
