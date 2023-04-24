@@ -1,6 +1,5 @@
 RegisterNetEvent('play_music')
-AddEventHandler('play_music', function(link)
-    id = basename(link)--- converting link to id
+AddEventHandler('play_music', function(id)
     SendNUIMessage({
         transactionType = 'playSound',
         transactionData = id
@@ -22,6 +21,3 @@ AddEventHandler('setVolume', function(volume)
     })
 end)
 
-local function basename(path)
-    return path:sub(path:find("/[^/]*$") + 1)
-  end
