@@ -5,6 +5,7 @@
 
 
 > `Play`	        : `TriggerEvent('play_music', link)`
+musicid = https://youtu.be/`dQw4w9WgXcQ`
 >
 > `Stop`          : `TriggerEvent('stop_music')`
 >
